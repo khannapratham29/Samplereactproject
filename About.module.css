@@ -1,0 +1,15 @@
+
+.aboutSection {
+    padding: 30px;
+    background-color: #f5f6fa;
+    margin-top: 20px;
+}
+
+.title{
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.featureItem{
+    margin: 6px 0;
+}
